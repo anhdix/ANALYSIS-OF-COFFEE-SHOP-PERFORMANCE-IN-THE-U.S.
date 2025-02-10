@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "coffee_ssis", "coffee_ssis\coffee_ssis.dtproj", "{DECEA3E8-9764-40B1-ACD4-C184B3C748C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECEA3E8-9764-40B1-ACD4-C184B3C748C8}.Development|Default.ActiveCfg = Development
+		{DECEA3E8-9764-40B1-ACD4-C184B3C748C8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57178C57-43E7-42CE-9E0E-100A3803DC04}
+	EndGlobalSection
+EndGlobal

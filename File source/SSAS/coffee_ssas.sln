@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "coffee_ssas", "coffee_ssas\coffee_ssas.dwproj", "{DFC509D8-9484-413D-B6FB-03D2D32C263C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC509D8-9484-413D-B6FB-03D2D32C263C}.Development|Default.ActiveCfg = Development
+		{DFC509D8-9484-413D-B6FB-03D2D32C263C}.Development|Default.Build.0 = Development
+		{DFC509D8-9484-413D-B6FB-03D2D32C263C}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F50FE63-ACA3-44E9-B11B-C791CDAA450F}
+	EndGlobalSection
+EndGlobal
